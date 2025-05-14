@@ -1,3 +1,4 @@
+#I learned the if blocks indents 
 tvShow = input("Enter your favorite TV show: ")
 if tvShow == "My little pony": 
             print("Who is your favorite character?")
